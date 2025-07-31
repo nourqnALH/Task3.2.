@@ -1,1 +1,1 @@
-# Task3.2.
+Design and programming of digital and analog sensor
